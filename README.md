@@ -14,4 +14,4 @@ Make Code by Microsoft (long term future)
 
 www.bits4bots@gmail.com
 
-Animated eye motions, led paterns, servo motor movements, and many sensors.
+Animated eye motions, led patterns, servo motor movements, and many sensors.
